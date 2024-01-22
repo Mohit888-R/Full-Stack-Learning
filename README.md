@@ -16,7 +16,7 @@
 </tr>
 
 <tr>
-<td>2</td>
+<td>3</td>
 <td> <a href="https://github.com/Mohit888-R/Full-Stack-Learning/blob/main/conventional_commits.md"> Conventional Commits </a> </td>
 </tr>
 </table>
