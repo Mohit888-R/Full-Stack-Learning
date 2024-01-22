@@ -7,7 +7,7 @@
 
 <tr>
 <td>1</td>
-<td> (https://github.com/Mohit888-R/Full-Stack-Learning/blob/main/package.json)[React/Next] </td>
+<td> [React/Next](https://github.com/Mohit888-R/Full-Stack-Learning/blob/main/package.json) </td>
 </tr>
 
 <tr>
