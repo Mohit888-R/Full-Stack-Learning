@@ -14,4 +14,9 @@
 <td>2</td>
 <td> <a href="https://github.com/Mohit888-R/Full-Stack-Learning/blob/main/Structure_Of_Project_File.md"> Structure of Project architecture of Frontend & Backend </a> </td>
 </tr>
+
+<tr>
+<td>2</td>
+<td> <a href="https://github.com/Mohit888-R/Full-Stack-Learning/blob/main/conventional_commits.md"> Conventional Commits </a> </td>
+</tr>
 </table>
