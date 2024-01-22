@@ -7,7 +7,7 @@
 
 <tr>
 <td>1</td>
-<td> <a href="https://github.com/Mohit888-R/Full-Stack-Learning/blob/main/package.json"> React/Next Project Idea </td>
+<td> <a href="https://github.com/Mohit888-R/Full-Stack-Learning/blob/main/projectIdeas.md"> React/Next Project Idea </td>
 </tr>
 
 <tr>
