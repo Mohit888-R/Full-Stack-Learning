@@ -7,11 +7,11 @@
 
 <tr>
 <td>1</td>
-<td> [React/Next](https://github.com/Mohit888-R/Full-Stack-Learning/blob/main/package.json) </td>
+<td> <a href="https://github.com/Mohit888-R/Full-Stack-Learning/blob/main/package.json"> React/Next Project Idea </td>
 </tr>
 
 <tr>
 <td>2</td>
-<td> [Structure of Project architecture of Frontend & Backend](https://github.com/Mohit888-R/Full-Stack-Learning/blob/main/Structure_Of_Project_File.md) </td>
+<td> <a href="https://github.com/Mohit888-R/Full-Stack-Learning/blob/main/Structure_Of_Project_File.md"> Structure of Project architecture of Frontend & Backend </a> </td>
 </tr>
 </table>
