@@ -20,3 +20,10 @@
 <td> <a href="https://github.com/Mohit888-R/Full-Stack-Learning/blob/main/conventional_commits.md"> Conventional Commits </a> </td>
 </tr>
 </table>
+
+
+<tr>
+<td>4</td>
+<td> <a href="https://github.com/Mohit888-R/Full-Stack-Learning/blob/main/codeReadability.md"> How to Structure Your Code for Readability </a> </td>
+</tr>
+</table>
